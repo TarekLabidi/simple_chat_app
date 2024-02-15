@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174090838707",
+    "project_id": "tarekchat-fb8e7",
+    "storage_bucket": "tarekchat-fb8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174090838707:android:7eef26cef859a6f1a986c6",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrwz4ZUSW1wAIj1Bo0-rIwR-JHAjkWZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
