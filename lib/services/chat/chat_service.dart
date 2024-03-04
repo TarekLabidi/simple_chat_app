@@ -21,8 +21,8 @@ class ChatService extends ChangeNotifier {
         reciverId: reciverId,
         message: message,
         timestamp: timestamp);
-
     //construct chat room id from current id and reciver id (sorted to ensure uniquness)
+
     List<String> ids = [currentUserId, reciverId];
     ids.sort(); //sort the ids(this ensures the chat room id is always the same for any pair of people)
     String chatRoomId = ids.join(
